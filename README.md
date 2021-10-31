@@ -4,6 +4,8 @@ Diamonds prices Dataset:
 It is important that credit card companies are able to recognize fraudulent
 credit card transactions so that customers are not charged for items that they did not
 purchase.
+
+
 Content
 price in US dollars (\$326--\$18,823)
 carat weight of the diamond (0.2--5.01)
@@ -16,8 +18,13 @@ y width in mm (0--58.9)
 z depth in mm (0--31.8)
 depth total depth percentage = z / mean (x, y) = 2 * z / (x + y) (43--79)
 table width of top of diamond relative to widest point (43--95)
+
+
 Inspiration
 Identify fraudulent credit card transactions.
+
+
+
 Steps to Perform the Model:
 1.Load the dataset
 2.Preprocessing.
