@@ -1,4 +1,4 @@
-# Credit-Card-Fraud-Detection-using-CNN
+# Credit-Card-Fraud-Detection-using-ANN
 
 Diamonds prices Dataset:
 It is important that credit card companies are able to recognize fraudulent
